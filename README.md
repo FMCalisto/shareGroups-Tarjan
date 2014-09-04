@@ -10,7 +10,7 @@
 ###1st Draft 
 
 
-Delivery Deadline: March 21, 2014 
+####Delivery Deadline: March 21, 2014 
 
 
 
@@ -53,11 +53,12 @@ within the group;
 
 
 
-##Examples 
+###Examples 
 
 
-###Input 1 
+####Input 1 
 
+```
 8 10 
 1 2 
 1 3 
@@ -69,29 +70,36 @@ within the group;
 6 7 
 7 5 
 4 8
+```
 
-###Output 1 
+####Output 1 
 
+```
 3 
 4 
 2 
-2 
+2
+```
 
 
-###Input 2 
+####Input 2 
 
+```
 7 5 
 2 3 
 3 4 
 5 6 
 6 7 
-7 5 
+7 5
+```
 
-###Output 2 
+####Output 2 
 
+```
 5 
 3 
-3 
+3
+```
 
 
 
