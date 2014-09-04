@@ -30,10 +30,11 @@ one group of people gets something, all the others will also receive.
 
 The input file should contain information about the shares: 
 
-? A line number of entities N, and the number of shares P. 
+A line number of entities N, and the number of shares P. 
 
-? A list of P lines, wherein every line contains two integers u and v (separated by a blank)
+A list of P lines, wherein every line contains two integers u and v (separated by a blank)
 which represent a share. Each line indicates that the person u sharing what gets to see. 
+
 It is assumed that the identification of the persons is an integer between 1 and N. 
 
 
@@ -41,11 +42,11 @@ It is assumed that the identification of the persons is an integer between 1 and
 
 The program should write to output the following information: 
 
-? A line with the maximum number of groups of people who share information; 
+A line with the maximum number of groups of people who share information; 
 
-? A line with the maximum size of the largest group of people who share information; 
+A line with the maximum size of the largest group of people who share information; 
 
-? A line with the maximum number of groups of people who share information only 
+A line with the maximum number of groups of people who share information only 
 
 within the group; 
 
