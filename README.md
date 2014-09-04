@@ -1,13 +1,13 @@
-Instituto Superior Técnico
+#Instituto Superior Técnico
 
 
-Analysis and Synthesis Algorithms 
+##Analysis and Synthesis Algorithms 
 
 
-2013/2014 
+###2013/2014 
 
 
-1st Draft 
+###1st Draft 
 
 
 Delivery Deadline: March 21, 2014 
@@ -15,7 +15,7 @@ Delivery Deadline: March 21, 2014
 
 
 
-The Problem 
+##The Problem 
 
 Nowadays there are many ways to share information (texts, images, videos, etc.) between
 people. Some people end up forming groups such that when any 
@@ -26,7 +26,7 @@ receives. Their task is to classify people into groups for sharing, so that when
 one group of people gets something, all the others will also receive. 
 
 
-Input 
+##Input 
 
 The input file should contain information about the shares: 
 
@@ -37,7 +37,7 @@ which represent a share. Each line indicates that the person u sharing what gets
 It is assumed that the identification of the persons is an integer between 1 and N. 
 
 
-Output 
+##Output 
 
 The program should write to output the following information: 
 
@@ -52,10 +52,10 @@ within the group;
 
 
 
-Examples 
+##Examples 
 
 
-Input 1 
+###Input 1 
 
 8 10 
 1 2 
@@ -69,7 +69,7 @@ Input 1
 7 5 
 4 8
 
-Output 1 
+###Output 1 
 
 3 
 4 
@@ -77,7 +77,7 @@ Output 1
 2 
 
 
-Input 2 
+###Input 2 
 
 7 5 
 2 3 
@@ -86,7 +86,7 @@ Input 2
 6 7 
 7 5 
 
-Output 2 
+###Output 2 
 
 5 
 3 
@@ -94,7 +94,7 @@ Output 2
 
 
 
-Implementation 
+##Implementation 
 
 The implementation of the project should be done preferably using programming languages 
 C or C ++. Submissions in Java are also acceptable, but must have 
@@ -103,7 +103,7 @@ The time required to implement this project is less than 10 hours.
 
 
 
-Submission of Project 
+##Submission of Project 
 
 The submission of the project should include a summary report and a file with the source code 
 solution. Information on the possible programming languages ​​is available on the website 
@@ -131,7 +131,7 @@ submission of reports.
 
 
 
-Rating 
+##Rating 
 
 The project should be done in groups of one or two students and will be evaluated in two phases. 
 In the first phase, during submission, each implementation will be performed on a set of 
@@ -140,7 +140,7 @@ note of the report contributes 20% of the final grade.
 
 
 
-Automatic evaluation 
+##Automatic evaluation 
 
 The first phase is automatically evaluated with a test set, which are 
 executed on a computer with GNU / Linux operating system. It is essential that the code 
@@ -161,7 +161,8 @@ Thus, the system reports a value between 0 and 16.
 
 
 
-Detection of Copies 
+##Detection of Copies
+
 The evaluation of project includes a procedure for detection of copies. Submission of a 
 project involves a commitment that the work was done exclusively by students.
 
